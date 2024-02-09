@@ -86,8 +86,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/tchx84/Gameeky.git",
-                    "tag": "v0.5.3",
-                    "commit": "97ddbd4eff6412598d762b9759a21e00accf97cb"
+                    "tag": "v0.5.4",
+                    "commit": "06536d184e26bc67db2a3a9a0aab1fe86d93b5ce"
                 }
             ],
             "post-install": [
