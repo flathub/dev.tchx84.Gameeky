@@ -1,7 +1,7 @@
 {
     "app-id": "dev.tchx84.Gameeky",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "48",
+    "runtime-version": "50",
     "sdk": "org.gnome.Sdk",
     "separate-locales": false,
     "command": "dev.tchx84.Gameeky.Launcher",
@@ -43,8 +43,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/tchx84/Gameeky.git",
-                    "tag": "v0.7.0",
-                    "commit": "c4b53d855b03fbdd54c33f8e79c8958d95517649"
+                    "tag": "v0.7.1",
+                    "commit": "7e1683d239d2c57b55d10a2465107e26fcd3f834"
                 }
             ],
             "post-install": [
